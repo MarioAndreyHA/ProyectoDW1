@@ -277,7 +277,9 @@ footer{
 }
 
 .campo img{
-    width: 600px;
-    height: 40px;
-    margin-right: 20px;
+    width: 400px;
+    height: 450px;
+    float: right;
+    margin-bottom: 80px;
+    margin-left: 30px;
 }
